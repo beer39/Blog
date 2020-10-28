@@ -281,3 +281,9 @@ footer p {
         float: left;
     }
 }
+@media (max-width: 560px) {
+    .left-content img {
+        height: 160px;
+        width: 260px;
+    }
+}
