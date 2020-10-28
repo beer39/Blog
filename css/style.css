@@ -280,6 +280,9 @@ footer p {
     .read-more-btn {
         float: left;
     }
+    .topics h5 {
+        margin-bottom: 5%;
+    }
 }
 @media (max-width: 560px) {
     .left-content img {
